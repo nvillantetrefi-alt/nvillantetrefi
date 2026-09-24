@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>n8n Integración Personal</title>
+</head>
+<body>
+  <h1>n8n Integración Personal</h1>
+
+  <p>
+    Esta aplicación es una integración personal utilizada para conectar
+    una instancia privada de n8n con servicios de Google mediante OAuth 2.0.
+  </p>
+
+  <p>
+    Su finalidad es permitir que el propietario de la cuenta ejecute
+    automatizaciones y flujos de trabajo configurados por él mismo.
+  </p>
+
+  <p>
+    La aplicación no se ofrece como un servicio público general.
+  </p>
+
+  <p>
+    <a href="/privacy/">Política de privacidad</a> |
+    <a href="/terms/">Términos y condiciones</a>
+  </p>
+
+  <p>
+    Contacto: <a href="mailto:tu.cuenta@gmail.com">tu.cuenta@gmail.com</a>
+  </p>
+</body>
+</html>
+  
