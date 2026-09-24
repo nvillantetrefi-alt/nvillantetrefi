@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Términos y Condiciones — n8n Integración Personal</title>
+</head>
+<body>
+  <h1>Términos y Condiciones</h1>
+
+  <p>
+    n8n Integración Personal es una integración de uso personal destinada a conectar
+    una instancia privada de n8n con servicios de Google mediante OAuth 2.0.
+  </p>
+
+  <p>
+    La aplicación no se ofrece como un servicio público o comercial de uso general.
+  </p>
+
+  <p>
+    El propietario es responsable de los workflows, automatizaciones,
+    integraciones y acciones ejecutadas mediante su instancia de n8n.
+  </p>
+
+  <p>
+    El acceso a los servicios de Google queda limitado a los permisos
+    expresamente autorizados durante el proceso OAuth.
+  </p>
+
+  <p>
+    El usuario puede revocar el acceso en cualquier momento desde la
+    configuración de seguridad de su Cuenta de Google.
+  </p>
+
+  <p>
+    Contacto:
+    <a href="mailto:tu.cuenta@gmail.com">tu.cuenta@gmail.com</a>
+  </p>
+
+  <p>
+    <a href="/">Volver al inicio</a>
+  </p>
+</body>
+</html>
